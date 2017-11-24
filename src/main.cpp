@@ -1,5 +1,3 @@
-#include <iostream>
-
 #include "Combatant.h"
 #include "AttackStyle.h"
 
